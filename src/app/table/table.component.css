@@ -1,0 +1,22 @@
+.Upper{
+    font-weight:bold;
+}
+.Lower{
+    font-weight:bold;
+}
+
+img[alt="Image"]{
+    width: 167px;
+height: 173px;
+border-radius: 35%;
+margin: 0px auto;
+display: block;
+border: 2px solid #000;
+padding: 7px;
+box-shadow: 0px 0px 10px #000;
+}
+.bg-faded{
+    width:450px;
+    margin:5px auto;
+    display:block;
+}
